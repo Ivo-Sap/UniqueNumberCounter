@@ -71,12 +71,12 @@ dotnet run --project UniqueNumberCounterApp <binary_file>
 dotnet run --project UniqueNumberCounterApp data.bin
 ```
 
-### Running All Tests
+### Run All Tests
 ``` sh
 dotnet test
 ```
 
-### Running Specific Tests
+### Run Specific Tests
 ``` sh
 dotnet test --filter "<namespace>.<class>.<test>"
 ```
